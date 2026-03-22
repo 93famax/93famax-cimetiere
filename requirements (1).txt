@@ -1,0 +1,1 @@
+# stdlib only — aucune dépendance externe
